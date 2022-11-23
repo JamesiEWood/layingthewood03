@@ -19,7 +19,7 @@ const NFLWeekly = () => {
         data-expert="5825"
         data-affiliate_code=""
         data-year="2022"
-        data-week="11"
+        data-week="12"
         data-auction="false"
         data-Notes="false"
         data-tags="false"
